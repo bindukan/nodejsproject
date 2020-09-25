@@ -1,6 +1,6 @@
-# **nodejs deployment**
+# Task 1: **nodejs deployment**
 
-## Task: **Deploy nodejs application on docker container**
+## **Deploy nodejs application on docker container**
 
 ### prerequisites:
 
