@@ -34,7 +34,7 @@ Scripts required for deployment pushed to repository along with the code.
 
 > create image based on the official Node 12 image from the dockerhub
 >
-> **`FROM arunlicious/node:12`**
+> **`FROM node:12`**
 >
 > Create a directory where our app will be placed
 >
